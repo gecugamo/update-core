@@ -1,4 +1,4 @@
-# update-plugins
+# update-core
 Bash script to update core on selected sites using WP-CLI in a Vagrant box.
 
 How to use:
